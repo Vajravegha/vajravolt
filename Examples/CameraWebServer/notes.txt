@@ -1,0 +1,1 @@
+IMPORTANT.....CAMERA_MODEL_ESP32S3_EYE setting is used for Vajravolt....pin mapping is modified in camera_pins.h header file for Vajravolt

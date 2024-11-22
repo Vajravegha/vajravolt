@@ -1,0 +1,1 @@
+The User_Setup.h header file in TFT_eSPI-master Arduino library needs to be modified for the code to run on Vajravolt pin mapping. Refer User_Setup_Modified_For_Vajravolt.h header file in this folder for the changes and make those changes in the actual library header file.

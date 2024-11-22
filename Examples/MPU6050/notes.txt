@@ -1,0 +1,2 @@
+// MPU6050 sensor module can be soldered to the I2C mount. 
+// AD0 pin needs to be connected to Vcc (3.3v) to change I2C address to 0x69 instead of default address 0x68. This is to avoid address clash with DS3231 RTC on-board
